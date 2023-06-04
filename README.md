@@ -22,8 +22,8 @@ You can customize the bot by modifying the `chipTweetV2.ipynb` file according to
 - `snscrape`: A library for scraping tweets from Twitter.
 - `pandas`: A library for data manipulation and analysis.
 - `re`: The regular expression module for pattern matching and extraction.
-- `py_imessage`: A library for sending text messages (SMS) on Mac.
 - `subprocess`: A module to run system commands and interact with the terminal.
+- `AppleScript`: A scripting language used for automation and control on macOS.
 
 Please note that the bot's efficiency in retrieving promo codes depends on various factors, including network connectivity, and the frequency of tweets made by Chipotle during NBA finals games.
 
