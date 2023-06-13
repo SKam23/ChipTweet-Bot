@@ -2,6 +2,20 @@
 
 Chipotle is running an promotion during the NBA finals: every time a 3-pointer is made, Chipotle tweets a code for a free Burrito. This bot is specifically designed to retrieve those promotional codes from Chipotle's tweets (text or image) during NBA finals games **WITHOUT** using any external API that cost money. It sends the codes to your phone as a text message (SMS) using  `AppleScript` and the `subprocess` module. The bot utilizes various technologies, including `snscrape`, `pandas`, `re`, and `subprocess`.
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="img/textCode.png" width="500" />
+    </td>
+    <td align="center">
+      <img src="img/imageCode.png" width="500" />
+    </td>
+  </tr>
+</table>
+
+
+
+
 ## Usage
 
 1. Clone the repository:
