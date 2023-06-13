@@ -1,6 +1,6 @@
 # ChipTweet-Bot
 
-Chipotle is running an exciting promotion during the NBA finals: every time a 3-pointer is made, Chipotle tweets a code for a free Burrito. This bot is specifically designed to retrieve those promotional codes from Chipotle's tweets during NBA finals games **WITHOUT** using any external API that cost money. It sends the codes to your phone as a text message (SMS) using  `AppleScript` and the `subprocess` module. The bot utilizes various technologies, including `snscrape`, `pandas`, `re`, and `subprocess`.
+Chipotle is running an promotion during the NBA finals: every time a 3-pointer is made, Chipotle tweets a code for a free Burrito. This bot is specifically designed to retrieve those promotional codes from Chipotle's tweets during NBA finals games **WITHOUT** using any external API that cost money. It sends the codes to your phone as a text message (SMS) using  `AppleScript` and the `subprocess` module. The bot utilizes various technologies, including `snscrape`, `pandas`, `re`, and `subprocess`.
 
 ## Usage
 
@@ -27,11 +27,4 @@ You can customize the bot by modifying the `chipTweetV2.ipynb` file according to
 
 Please note that the bot's efficiency in retrieving promo codes depends on various factors, including network connectivity, and the frequency of tweets made by Chipotle during NBA finals games.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to modify and enhance the bot based on your requirements and enjoy your free meals from Chipotle!
-
-Let me know if you need any further assistance or clarification.
 
